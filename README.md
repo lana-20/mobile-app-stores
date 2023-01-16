@@ -58,13 +58,20 @@ Besides the Big Two app stores from Apple and Google, there are other stores spo
 - As you can see, there are lots of mobile app stores for Android, and SlideME is no exception. It’s one of the most mainstreamed alternatives to Google Play Store and hosts both free and premium apps in its listings.
 - When it first launched, users complained about poor downloading and installation processes, but those quibbles have dramatically decreased. App creators can make their apps available to hundreds of thousands of users who prefer SlideME to Google Play Store.
 
-[__Uptodown Market__](http://slideme.org/](https://en.uptodown.com/mac)
+[__Uptodown Market__](https://en.uptodown.com/mac)
+
 - This is another Android-specific mobile app store that also hosts applications for the Windows, Mac, and Ubuntu OSs. In terms of mobile apps, it rivals Google Play in a number of apps, app descriptions, and editorial reviews.
 - One of the primary unique selling propositions of Uptodown is that human beings filter all the apps submitted for listing in the marketplace, which can cut down on malware, viruses, and issues with fake descriptions.
 - Uptodown only offers free apps, which might make users more likely to search for content here rather than Google Play, and it has worldwide availability. Certain countries, including China, can’t access Google Play without a workaround, so Uptodown caters beautifully to those markets.
 
 [__Itch.io__](https://itch.io/)
-- 
+- Although Itch.io caters almost exclusively to games and gamers, it’s still worth mentioning. Many brands have discovered that gamification makes their apps more appealing and more likely to be used, and incorporating gameplay into an app can make it more popular.
+- The great thing about Itch.io is that it was built for both developers and consumers, so it covers both bases beautifully. The interface isn’t as intuitive as some of the other alternatives on the market, but it possesses a clarity of purpose that makes it ideal for its audience.
+
+[__Cydia__](https://cydia.saurik.com/)
+- Cydia is an alternative to Apple's App Store for "jailbroken" devices, at this time including iPhones, iPads, and iPod Touches, specializing in the distribution of all that is not an "app". Cydia is not available in Apple's App Store, nor is it a website: it is installed on your device using a "jailbreaking" tool, such as [Pangu](http://en.pangu.io/) or [TaiG](https://taig-jailbreak-tools.en.lo4d.com/windows). For help with jailbreaking, see [/r/jailbreak on reddit](https://www.reddit.com/r/jailbreak/).
+- As mentioned above, Cydia is different from the other mobile app stores on this list. It’s designed specifically for iOS devices that have been jailbroken. Those devices can’t access apps on the Apple App Store, so consumers who purchase jailbroken phones or jailbreak their own phones often use Cydia.
+
 
 
 ...
