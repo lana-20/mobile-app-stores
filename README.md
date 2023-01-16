@@ -3,7 +3,7 @@
 App stores form the core of the mobile world where apps can be downloaded and reviewed. Without the app stores, smartphones wouldn’t be as intelligent
 and functional as we want them to be. 
 
-The app stores of the biggest mobile platforms — Google and Apple — contain million of apps. Billions app downloads have been counted. These are huge numbers that are bound to increase in the future.
+The app stores of the biggest mobile platforms — Google and Apple — contain millions of apps. Billions of app downloads have been counted. These are huge numbers that are bound to increase in the future.
 
 [__Google Play Store__](https://play.google.com/store/games?hl=en)
 - Hosts movies and other content as well as apps, was one of the first mobile app stores.
@@ -21,6 +21,21 @@ Besides the Big Two app stores from Apple and Google, there are other stores spo
 [__LG SmartWorld__](https://www.lg.com/global/lg-thinq)
 - LG has a similar mobile app store, called SmartWorld, that is automatically installed on LG phones. 
 - This store also offers applications that are designed for LG TVs and other devices.
+
+[__Huawei App Store__](http://appstore.huawei.com/)
+- This mobile app store is primarily targeted to the Chinese market, with most app names and descriptions written in Chinese characters. 
+- Huawei is installed on many of the company’s devices and allows people in countries without access to the Play Store to download the apps they want to use.
+
+[__Sony Apps__](https://www.sony.com/apps.html)
+- Like several of its competitors, the Sony Apps market is designed for people with Sony mobile devices who want to search natively on their phones or tablets without turning to Google Play. 
+- It’s geared primarily toward entertainment, but you can also find plenty of brand apps that offer other functionality.
+
+[__Amazon Appstore__](https://www.amazon.com/b?node=23972942011&ref_=cs_fdm_1000626391-23972942011)
+- It’s no surprise that ecommerce giant Amazon has branched into the app space. The Amazon Appstore hosts Android apps and comes preinstalled on devices like the Fire Phone and the Kindle Fire in place of the Play Store.
+- Remember that consumers take the road of least resistance to get what they want. If they already have the Amazon Appstore on their device, they’ll search for an app they want there first, before downloading another marketplace.
+- When your app appears for these customers, you save them the trouble of downloading more stores to their devices, which can help not only with brand recognition but also with brand loyalty.
+- Plus, consumers with any Android-powered device can download the Amazon Appstore. As we’ve seen in other areas of commerce, Amazon tends to dominate the spaces it infiltrates, so expect downloads to increase.
+
 
 ...
 
