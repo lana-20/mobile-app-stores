@@ -36,6 +36,36 @@ Besides the Big Two app stores from Apple and Google, there are other stores spo
 - When your app appears for these customers, you save them the trouble of downloading more stores to their devices, which can help not only with brand recognition but also with brand loyalty.
 - Plus, consumers with any Android-powered device can download the Amazon Appstore. As we’ve seen in other areas of commerce, Amazon tends to dominate the spaces it infiltrates, so expect downloads to increase.
 
+[__Aptoide__](https://en.aptoide.com/)
+- Many Android users choose Aptoide instead of the larger mobile app stores because of the ways it displays app listings. It’s highly intuitive and easy to navigate, which makes it an appealing alternative.
+- Additionally, Aptoide remains just as broad as the other mobile application stores. You can find games, productivity apps, store apps, and more. Since it isn’t niche-specific, other than catering exclusively to the Android OS, it’s a great choice for any brand with an app.
+
+[__F-Droid__](https://f-droid.org/en/)
+- Consumers who appreciate open-source software feel magnetically drawn to F-Droid, which is, as of this writing, the only Android mobile app store to offer free and open-source apps in a marketplace.
+- It’s not the ideal choice for many brands because it flags any commercialized aspects of the app in the store. Additionally, the primary repository lists only apps that make their source code available.
+- However, F-Droid also allows users to create their own repositories, which might include apps from brands that enable features like user tracking with no pushback from the user base. Exploring the various repositories takes time, but it’s worth the effort if you want your app available to as many people as possible.
+
+[__GetJar__](https://www.getjar.com/)
+- The GetJar interface might look a little dated, but the simplicity of its website and mobile app store makes it a popular choice for both app developers and consumers. It’s an open app store, which means that it offers apps for Android, iOS, Windows, and other OSs.
+- This unique approach endears it to many consumers, especially those who own devices with different operating systems. For instance, Android phone users might have iPads or Apple TVs in their homes.
+- Over the years, GetJar’s open policy has made it vulnerable to people who upload apps infected with viruses. As long as you have anti-virus software installed on your device and you investigate apps before you download, however, you should stay safe.
+
+[__ACMarket__](https://acmarket.net/)
+- Whether or not you want to host your app on ACMarket, you should be aware of this mobile app store’s existence. It’s designed specifically for cracked, hacked, or modded apps, which means that the apps found here have been altered to remove so-called “undesirable” features.
+- If you’re concerned that your app appears on ACMarket, you can investigate the situation and warn your user base should the need arise.
+
+[__SlideME__](http://slideme.org/)
+- As you can see, there are lots of mobile app stores for Android, and SlideME is no exception. It’s one of the most mainstreamed alternatives to Google Play Store and hosts both free and premium apps in its listings.
+- When it first launched, users complained about poor downloading and installation processes, but those quibbles have dramatically decreased. App creators can make their apps available to hundreds of thousands of users who prefer SlideME to Google Play Store.
+
+[__Uptodown Market__](http://slideme.org/](https://en.uptodown.com/mac)
+- This is another Android-specific mobile app store that also hosts applications for the Windows, Mac, and Ubuntu OSs. In terms of mobile apps, it rivals Google Play in a number of apps, app descriptions, and editorial reviews.
+- One of the primary unique selling propositions of Uptodown is that human beings filter all the apps submitted for listing in the marketplace, which can cut down on malware, viruses, and issues with fake descriptions.
+- Uptodown only offers free apps, which might make users more likely to search for content here rather than Google Play, and it has worldwide availability. Certain countries, including China, can’t access Google Play without a workaround, so Uptodown caters beautifully to those markets.
+
+[__Itch.io__](https://itch.io/)
+- 
+
 
 ...
 
