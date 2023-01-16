@@ -51,6 +51,33 @@ I think this is indicative of why there are so many different mobile app stores.
 Before a mobile team distributes an app in the biggest stores, they should think about the goals of the app. Maybe there are other stores that are better
 suited to their app than the big players. For example, some stores offer a better revenue share than the usual 70% (developer revenues)/30% (store provider revenues) split, or they offer better app targeting, for example, in different markets such as Africa or Asia.
 
+Many mobile app stores have been created exclusively for the Chinese market. Although people in China and in other countries that can’t access Google Play can get mobile apps using a virtual private network, or VPN, many find it easier to use a Chinese app store instead.
+
+If you plan to use these online mobile app stores, you’ll need to create Chinese-language versions of your app. Following are some of the most popular mobile app stores for the Chinese market:
+- Tencent Myapp
+- 360
+- Baidu
+- Oppo
+- AppChina
+- VIVO
+- PP Assistant
+- Wandoujia
+- HiAPK
+- Flyme
+- HiMarket
+- 2345
+- Coolmart
+- Anzhi Market
+- MaoPao
+
+[Tencent](https://android.myapp.com/) is perhaps the most well-known of these, providing its huge user base to hundreds of thousands of high-quality apps from all over the world. It’s known interchangeably as Tencent, Myapp, and Tencent Myapp.
+
+However, many of the other app stores have consolidated over the years, and although you can still access them individually, they’re actually part of the other markets.
+
+This is where marketing your app in online app stores gets confusing because you don’t want multiple, competing listings. When you’re researching online app stores, check to see whether the parent company owns other stores on your list. That way, you’re not doing extra work for nothing.
+
+Most of the Chinese-market mobile app stores support Android. A few also allow iOS apps to be distributed and downloaded, as well, though most don’t support Windows phones.
+
 However, uploading an app to one of the stores requires one thing in particular — knowledge of the store’s review and publishing process. Your app needs to fulfill the review and publishing guidelines of the various vendors and app stores; otherwise your app is very likely to be rejected.
 
 Knowledge of the different review guidelines will allow you to better support your team while developing and releasing your app. The review and publishing guidelines of the major mobile app stores can be found on the following Web sites:
