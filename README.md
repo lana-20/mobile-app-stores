@@ -1,15 +1,15 @@
-# Mobile App Stores
+# <img src="https://user-images.githubusercontent.com/70295997/212752815-8021f8a2-7d02-4701-b58d-7036ba1e9a2a.png" width=40> Mobile App Stores
 
 App stores form the core of the mobile world where apps can be downloaded and reviewed. Without the app stores, smartphones wouldn’t be as intelligent
 and functional as we want them to be. 
 
 The app stores of the biggest mobile platforms — Google and Apple — contain millions of apps. Billions of app downloads have been counted. These are huge numbers that are bound to increase in the future.
 
-[__Google Play Store__](https://play.google.com/store/games?hl=en)
+<img src="https://user-images.githubusercontent.com/70295997/212752363-14ccdab2-dcd8-4bf5-b371-685dadbf83bd.png" width=40> [__Google Play Store__](https://play.google.com/store/games?hl=en)
 - Hosts movies and other content as well as apps, was one of the first mobile app stores.
 - It opened its doors in 2008 and exclusively targets the Android market.
 
-[__Apple App Store__](https://www.apple.com/app-store/)
+<img src= "https://user-images.githubusercontent.com/70295997/212752519-3c517900-3922-4254-a5f0-4ae91b8c8407.png" width=40> [__Apple App Store__](https://www.apple.com/app-store/)
 - For iOS users, the Apple Store is often the first place to look for amazing new applications. 
 - According to [Lifewire](https://www.lifewire.com/how-many-apps-in-app-store-2000252), the Apple Store contains 2.1 million apps, though that number includes apps developed specifically for Apple TV and Apple Watch, among other products.
 
@@ -72,21 +72,42 @@ Besides the Big Two app stores from Apple and Google, there are other stores spo
 - Cydia is an alternative to Apple's App Store for "jailbroken" devices, at this time including iPhones, iPads, and iPod Touches, specializing in the distribution of all that is not an "app". Cydia is not available in Apple's App Store, nor is it a website: it is installed on your device using a "jailbreaking" tool, such as [Pangu](http://en.pangu.io/) or [TaiG](https://taig-jailbreak-tools.en.lo4d.com/windows). For help with jailbreaking, see [/r/jailbreak on reddit](https://www.reddit.com/r/jailbreak/).
 - As mentioned above, Cydia is different from the other mobile app stores on this list. It’s designed specifically for iOS devices that have been jailbroken. Those devices can’t access apps on the Apple App Store, so consumers who purchase jailbroken phones or jailbreak their own phones often use Cydia.
 
+[__neXva__](http://www.nexva.com/)
+- Think of neXva as a mobile app stores with many different mobile app verticals that others have developed. 
+- It was built specifically for developers who want to control how their content is distributed among consumers, so it’s a highly useful part of any mobile app marketing strategy.
 
+[__Bemodi__](http://html5.oms.apps.bemobi.com/en_us/?ecid=1)
+- Originally known as the Opera Mobile Store, Bemodi is browser-specific to Opera and offers mobile app downloads via the web browser rather than a self-contained app. 
+- Consequently, it’s more useful to consumers who use Opera exclusively and who don’t want to load yet another app onto their devices.
 
-...
+[__AppBrain__](https://www.appbrain.com/)
+- AppBrain is simultaneously a collection of app promotion tools and a browser-based mobile app store. 
+- Brands can use AppBrain to make their apps more visible in various mobile app stores, including its own, as well as to drive more traffic to their app listings.
 
-But why are there so many different stores? Especially in the Android world there is more than one app store available, such as the Amazon and Samsung stores. The answer to this question is simple: every app store provider wants tomake money out of the mobile app business!
+[__Kongregate__](https://www.kongregate.com/)
+- Kongregate is one of the many mobile app stores that focuses on games and entertainment, yet has a robust selection of apps in other categories. 
+- Many consumers find their way to app stores because they’re looking for games, but discover brand-associated and other useful apps along the way.
+
+__1Mobile__
+- This Android-only online app store has been around for several years and developed an almost cult-like following. 
+- Although it focuses primarily on games and entertainment, it doesn’t discriminate when it comes to the types of apps it supports.
+
+__Appolicious__
+- One of the selling points of Appolicious is that this mobile app store has very strict requirements about the specific apps that make it through its gatekeepers. 
+- Its goal is to provide the highest-quality free and paid apps on the marketplace, so getting your app listed here can improve visibility significantly.
+
+__Appland__
+- Appland is designed for both app launches and app downloads, which makes it an ideal part of marketing any mobile app. 
+- It offers functionality for Android, Windows, and iOS.
+
+_Why are there so many different stores?_ Especially in the Android world there is more than one app store available, such as the Amazon and Samsung stores. The answer to this question is simple: every app store provider wants tomake money out of the mobile app business!
 
 Let’s take the Samsung store as an example. Since the launch of its Galaxy device series, Samsung has grown to become one of the biggest and most
-successful Android device manufacturers and has sold and continues to sell millions of devices around the world. Having its own app store preinstalled on
-every Samsung phone is a huge advantage because it directs potential mobile app customers straight to Samsung and away from Google. If millions of users
-use this store, the store generates traffic, which means it can sell ads. On top of that, app sales via the app store allow Samsung to generate additional revenues. In most of the app stores, 30% of the sale price goes to the platform provider, and the same applies to in-app purchases.
+successful Android device manufacturers and has sold and continues to sell millions of devices around the world. Having its own app store preinstalled on every Samsung phone is a huge advantage because it directs potential mobile app customers straight to Samsung and away from Google. If millions of users use this store, the store generates traffic, which means it can sell ads. On top of that, app sales via the app store allow Samsung to generate additional revenues. In most of the app stores, 30% of the sale price goes to the platform provider, and the same applies to in-app purchases.
 
-I think this is indicative of why there are so many different mobile app stores. If you search the Internet, I’m sure you’ll find even more of them.
+This may be indicative of why there are so many different mobile app stores. If you search the Internet, you’ll certainly find even more of them.
 
-Before a mobile team distributes an app in the biggest stores, they should think about the goals of the app. Maybe there are other stores that are better
-suited to their app than the big players. For example, some stores offer a better revenue share than the usual 70% (developer revenues)/30% (store provider revenues) split, or they offer better app targeting, for example, in different markets such as Africa or Asia.
+Before a mobile team distributes an app in the biggest stores, they should think about the goals of the app. Maybe there are other stores that are better suited to their app than the big players. For example, some stores offer a better revenue share than the usual 70% (developer revenues)/30% (store provider revenues) split, or they offer better app targeting, for example, in different markets such as Africa or Asia.
 
 Many mobile app stores have been created exclusively for the Chinese market. Although people in China and in other countries that can’t access Google Play can get mobile apps using a virtual private network, or VPN, many find it easier to use a Chinese app store instead.
 
@@ -122,7 +143,6 @@ Knowledge of the different review guidelines will allow you to better support yo
 - Apple App Store Guidelines (https://developer.apple.com/appstore/review/)
 - Google Play store Guidelines (http://developer.android.com/distribute/googleplay/publish/preparing.html)
 - Samsung App Store Guidelines (http://developer.samsung.com/distribute/app-submission-guide)
-
 
 ----
 
