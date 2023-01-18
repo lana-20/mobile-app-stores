@@ -18,6 +18,11 @@ Besides the Big Two app stores from Apple and Google, there are other stores spo
 [__Samsung Galaxy Apps__](https://www.samsung.com/us/apps/galaxy-store/)
 - Many device manufacturers have discovered that they can integrate their customers more fully under their brands by offering mobile app stores of their own.
 
+[__KaiStore__](https://www.kaiostech.com/apps-feature-phones-everything-need-know-kaistore/)
+- KaiOS has a small market share (0.08%), however, companies like Meta develop for this platform. It's an OS for button phones. 
+- Despite the small share, this OS is essential enough for phones which are not yet full-blown smartphones, but are cheaper simpler button phones. 
+- KaiOS has its own app store (KaiStore), from where users can download the most popular apps for this OS.
+
 [__LG SmartWorld__](https://www.lg.com/global/lg-thinq)
 - LG has a similar mobile app store, called SmartWorld, that is automatically installed on LG phones. 
 - This store also offers applications that are designed for LG TVs and other devices.
@@ -25,6 +30,7 @@ Besides the Big Two app stores from Apple and Google, there are other stores spo
 [__Huawei App Store__](http://appstore.huawei.com/)
 - This mobile app store is primarily targeted to the Chinese market, with most app names and descriptions written in Chinese characters. 
 - Huawei is installed on many of the company’s devices and allows people in countries without access to the Play Store to download the apps they want to use.
+- NOTE: US banned Huawei telecom business ☞ Google suspended EMUI/Android OS support for Huawei.
 
 [__Sony Apps__](https://www.sony.com/apps.html)
 - Like several of its competitors, the Sony Apps market is designed for people with Sony mobile devices who want to search natively on their phones or tablets without turning to Google Play. 
