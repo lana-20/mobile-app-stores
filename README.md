@@ -108,12 +108,14 @@ __Appland__
 
 _Why are there so many different stores?_ Especially in the Android world there is more than one app store available, such as the Amazon and Samsung stores. The answer to this question is simple: every app store provider wants tomake money out of the mobile app business!
 
-Let’s take the Samsung store as an example. Since the launch of its Galaxy device series, Samsung has grown to become one of the biggest and most
-successful Android device manufacturers and has sold and continues to sell millions of devices around the world. Having its own app store preinstalled on every Samsung phone is a huge advantage because it directs potential mobile app customers straight to Samsung and away from Google. If millions of users use this store, the store generates traffic, which means it can sell ads. On top of that, app sales via the app store allow Samsung to generate additional revenues. In most of the app stores, 30% of the sale price goes to the platform provider, and the same applies to in-app purchases.
+Let’s take the Samsung store as an example. Since the launch of its Galaxy device series, Samsung has grown to become one of the biggest and most successful Android device manufacturers and has sold and continues to sell millions of devices around the world. Having its own app store preinstalled on every Samsung phone is a huge advantage because it directs potential mobile app customers straight to Samsung and away from Google. If millions of users use this store, the store generates traffic, which means it can sell ads. On top of that, app sales via the app store allow Samsung to generate additional revenues. In most of the app stores, 30% of the sale price goes to the platform provider, and the same applies to in-app purchases.
 
 ![image](https://user-images.githubusercontent.com/70295997/213393321-138d9d45-ad9d-4f7b-a856-dc7952a69092.png)
 
-The [App Store generated over $10 billion in revenue for developers](https://gigazine.net/gsc_news/en/20150109-app-store-new-records-2015/) in 2014, and $25 billion overall. This may be indicative of why there are so many different mobile app stores. If you search the Internet, you’ll certainly find even more of them.
+The App Store generated over [$10 billion in revenue for developers in 2014, and $25 billion overall](https://gigazine.net/gsc_news/en/20150109-app-store-new-records-2015/).
+
+The app industry reached [$133 billion revenue and 143 billion downloads in 2021](https://www.businessofapps.com/data/app-statistics/#Appdownloadkeystatistics), a 19% and 0.4% increase, respectively, on 2020. That was after the largest gains in downloads in five years in 2020, with app downloads increasing by 24%. 
+This may be indicative of why there are so many different mobile app stores. If you search the Internet, you’ll certainly find even more of them.
 
 Before a mobile team distributes an app in the biggest stores, they should think about the goals of the app. Maybe there are other stores that are better suited to their app than the big players. For example, some stores offer a better revenue share than the usual 70% (developer revenues)/30% (store provider revenues) split, or they offer better app targeting, for example, in different markets such as Africa or Asia.
 
@@ -155,3 +157,4 @@ Knowledge of the different review guidelines will allow you to better support yo
 ----
 
 [Ultimate Mobile App Stores List (2023)](https://buildfire.com/mobile-app-stores-list/)
+[App Download Data (2023)](https://www.businessofapps.com/data/app-statistics/)
