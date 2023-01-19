@@ -146,7 +146,7 @@ However, uploading an app to one of the stores requires one thing in particular 
 
 Knowledge of the different review guidelines will allow you to better support your team while developing and releasing your app. The review and publishing guidelines of the major mobile app stores can be found on the following Web sites:
 - Amazon Appstore Guidelines(https://developer.amazon.com/help/faq.html)
-- Apple App Store Guidelines (https://developer.apple.com/appstore/review/)
+- Apple App Store Guidelines (https://developer.apple.com/app-store/review/guidelines/)
 - Google Play store Guidelines (http://developer.android.com/distribute/googleplay/publish/preparing.html)
 - Samsung App Store Guidelines (http://developer.samsung.com/distribute/app-submission-guide)
 
